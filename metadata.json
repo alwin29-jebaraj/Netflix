@@ -1,0 +1,8 @@
+{
+  "name": "Netflix Login Clone",
+  "description": "A high-fidelity replica of the Netflix login flow with custom Express backend authentication and an immersive browse dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
