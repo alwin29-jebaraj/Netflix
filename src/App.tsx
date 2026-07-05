@@ -291,21 +291,6 @@ export default function App() {
                 </div>
               </form>
 
-              {/* Informative credentials hints for testing */}
-              <div id="demo-credentials-hints" className="mt-8 pt-6 border-t border-zinc-800 text-zinc-500 text-xs space-y-2">
-                <p className="font-semibold text-zinc-400">Demo Accounts Available:</p>
-                <div className="bg-zinc-950/60 p-2.5 rounded border border-zinc-800 space-y-1">
-                  <div className="flex justify-between">
-                    <span>Email: <code className="text-red-400">netflix@netflix.com</code></span>
-                    <span>Pass: <code className="text-zinc-300">password123</code></span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span>Email: <code className="text-red-400">user@example.com</code></span>
-                    <span>Pass: <code className="text-zinc-300">netflix2026</code></span>
-                  </div>
-                </div>
-              </div>
-
               <div id="login-foot-notes" className="mt-8 text-zinc-500 space-y-4">
                 <div className="text-sm">
                   New to Netflix? <a href="#signup" className="text-white hover:underline font-medium">Sign up now</a>.
